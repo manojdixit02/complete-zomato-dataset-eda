@@ -1,0 +1,27 @@
+In Data Analysis we do:
+Missing Values
+Explore about Numerical Valuables
+Explore about Categorical valuables
+Finding Relationship Between Features
+The value between in 9551 is too small so did not show in heatmap
+At the moment I merge df, df_country where their country code are the same
+At this step we want to know data types:
+Lets go to Explorer Dataset, Lets pick up something How many countries are there?
+Maximum Transaction happen in India by 8652
+Lets do some Plots | 1- Top 3 Countries that uses Zomato |
+Observation:
+When Rating is between 4.5 to 4.9 it means Excellent
+When Rating is between 4.0 to 4.4 it means Very Good
+When Rating is between 3.5 to 3.9 it means Good
+When Rating is between 2.5 to 3.4 it means Average
+When Rating is between 2.0 to 2.4 it means Poor
+Observation:
+1- Not Rated count is very high
+2- Maximum Number of rating are between 2.5 to 3.6
+Find country names that have given zero rating
+Observation:
+Maximum number of 0 ratings are from India customers
+find out which currency is used by which country
+Which countries do have online deliveries
+Observation
+Online deliveries are available in India and UAE  | Create a pie chart for cities distribution |
